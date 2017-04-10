@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f3e449fedd0d5a4086a559b34df0a26
+timeCreated: 1508687687
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica Neue LT Com
+  fontNames:
+  - Helvetica Neue LT Com
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
