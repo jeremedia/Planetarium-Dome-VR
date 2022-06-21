@@ -14,11 +14,12 @@
 * [Project Use-case](#project-use-case)
 * [Project Purpose](#project-purpose)
 * [Product Scope and Approach](#product-scope-and-approach)
+* [Project Screenshots](#project-screenshots)
 * [Product Improvements](#product-improvements)
 * [VR Planetarium Solutions](#vr-planetarium-solutions)
 * [Setting up](#setting-up)
 * [Credits](#credits)
-* [License](#licence)
+* [License](#license)
 
 ## Project's Title
 
@@ -62,6 +63,23 @@ VIRTUAL DOME - A DOME PLANETERIUM EXPERIENCE in VR
 - The 360 Dome videos content will be played inside these digital sets in the software using the VR medium. The users will be able to see, rotate, listen and interact with the content in the software throughout the experience.
 
 
+## Project Screenshots
+
+![VR%20Dome%20Project/ProjectScreenshots/1.png](VR%20Dome%20Project/ProjectScreenshots/1.png)
+
+![VR%20Dome%20Project/ProjectScreenshots/2.png](VR%20Dome%20Project/ProjectScreenshots/2.png)
+
+![VR%20Dome%20Project/ProjectScreenshots/3.png](VR%20Dome%20Project/ProjectScreenshots/3.png)
+
+![VR%20Dome%20Project/ProjectScreenshots/4.png](VR%20Dome%20Project/ProjectScreenshots/4.png)
+
+![VR%20Dome%20Project/ProjectScreenshots/5.png](VR%20Dome%20Project/ProjectScreenshots/5.png)
+
+![VR%20Dome%20Project/ProjectScreenshots/6.png](VR%20Dome%20Project/ProjectScreenshots/6.png)
+
+![VR%20Dome%20Project/ProjectScreenshots/7.png](VR%20Dome%20Project/ProjectScreenshots/7.png)
+
+
 ## Product Improvements
 
 - Additionally, improvements to our software solution can also bring creativity and other elements of the experience for instance: 
@@ -73,6 +91,8 @@ VIRTUAL DOME - A DOME PLANETERIUM EXPERIENCE in VR
 
 
 ## VR Planetarium Solutions
+
+- Features
 
 - Technologies
 • Application as a VR (VIRTUAL REALITY) Solution (Any VR Headset, Oculus, Vive, Google Cardboard, etc)
